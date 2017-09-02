@@ -1,4 +1,42 @@
 * {
-  text-align: center;
   font-family: Helvetica, sans-serif;
+}
+.nav {
+  text-align: center;
+  color: white;
+  background-image: url("../photos/the-flatiron-building.png");
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+a {
+  font-size: 18px;
+  color: white;
+}
+
+.process {
+  text-align: center;
+}
+
+.ny {
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+  background-image: url("../photos/the-flatiron-building.png");
+}
+
+.about {
+  text-align: center;
+}
+
+.footer {
+  background-color: dimgray;
+}
+
+#copyright {
+  font-size: 11px;
+  color: white;
 }
